@@ -36,8 +36,10 @@ The forms are generated based on JSON configuration files located in the `src/da
   ],
   "buttons": ["submit", "clear"]
 }
+```
 
 ### form-test-2.json
+
 ```json
 {
   "title": "Test #2",
@@ -77,8 +79,10 @@ The forms are generated based on JSON configuration files located in the `src/da
   ],
   "buttons": ["submit"]
 }
+```
 
 ### form-test-3.json
+
 ```json
 {
   "title": "Test #3",
@@ -147,3 +151,4 @@ The forms are generated based on JSON configuration files located in the `src/da
   ],
   "buttons": ["submit"]
 }
+```
